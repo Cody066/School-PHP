@@ -1,0 +1,106 @@
+$xml = "<?xml version = \"1.0\" ?>
+	<catalog>
+	<mov id = \"mov1\">
+		<title>Finding Nemo</title>
+		<img src = "https://www.imdb.com/title/tt0266543/mediaviewer/rm943068416"></img>
+		<direct>Andrew Stanton</direct>
+		<mainActor>Nemo Sonofmarlin</mainActor>
+		<IMDB>https://www.imdb.com/title/tt0266543/</IMDB>
+		<year>2003</year>
+		<genre>Adventure/Comedy</genre>
+	</mov>
+
+	<mov id = \"mov2\">
+		<title>Finding Dory</title>
+		<img src = "https://www.imdb.com/title/tt2277860/mediaviewer/rm2278496512"></img>
+		<direct>Andrew Stanton</direct>
+		<mainActor>Dory</mainActor>
+		<IMDB>https://www.imdb.com/title/tt2277860/?ref_=fn_al_tt_1</IMDB>
+		<year>2016</year>
+		<genre>Adventure</genre>
+	</mov>
+
+	<mov id = \"mov3\">
+		<title>Toy Story</title>
+		<img src = "https://www.imdb.com/title/tt0114709/mediaviewer/rm3813007616"></img>
+		<direct>John Lasseter</direct>
+		<mainActor>Tim Allen</mainActor>
+		<IMDB>https://www.imdb.com/title/tt0114709/</IMDB>
+		<year>1995</year>
+		<genre>Adventure/Western</genre>
+	</mov>
+
+	<mov id = \"mov4\">
+		<title>Toy Story 2</title>
+		<img src = "https://www.imdb.com/title/tt0120363/mediaviewer/rm1969689600"></img>
+		<direct>John Lasseter</direct>
+		<mainActor>Tom Hanks</mainActor>
+		<IMDB>https://www.imdb.com/title/tt0120363/</IMDB>
+		<year>1999</year>
+		<genre>Adventure/Western</genre>
+	</mov>
+
+	<mov id = \"mov5\">
+		<title>UP!</title>
+		<img src = "https://www.imdb.com/title/tt1049413/mediaviewer/rm2582959360"></img>
+		<direct>Pete Docter</direct>
+		<mainActor>Ed Asner</mainActor>
+		<IMDB>https://www.imdb.com/title/tt1049413/?ref_=fn_al_tt_1</IMDB>
+		<year>2009</year>
+		<genre>Drama/Fantasy</genre>
+	</mov>
+
+	<mov id = \"mov6\">
+		<title>Coco</title>
+		<img src = "https://www.imdb.com/title/tt2380307/mediaviewer/rm585455872"></img>
+		<direct>Lee Unkrich</direct>
+		<mainActor>Gael Garcia Bernal</mainActor>
+		<IMDB>https://www.imdb.com/title/tt2380307/</IMDB>
+		<year>2017</year>
+		<genre>Fantasy/Mystery</genre>
+	</mov>
+
+	<mov id = \"mov7\">
+		<title>The Incredibles</title>
+		<img src = "https://www.imdb.com/title/tt0317705/mediaviewer/rm915381504"></img>
+		<direct>Brad Bird</direct>
+		<mainActor>Craig Nelson</mainActor>
+		<IMDB>https://www.imdb.com/title/tt0317705/</IMDB>
+		<year>2004</year>
+		<genre>Action</genre>
+	</mov>
+
+	<mov id = \"mov8\">
+		<title>Brave</title>
+		<img src = "https://www.imdb.com/title/tt1217209/mediaviewer/rm2980492800"></img>
+		<direct>Mark Andrews</direct>
+		<mainActor>Kelly MacDonald</mainActor>
+		<IMDB>https://www.imdb.com/title/tt1217209/</IMDB>
+		<year>2012</year>
+		<genre>Adventure/Comedy</genre>
+
+	</mov>
+		<mov id = \"mov9\">
+		<title>Wall-E</title>
+		<img src = "https://www.imdb.com/title/tt0910970/mediaviewer/rm1659211008"></img>
+		<direct>Andrew Stanton</direct>
+		<mainActor>Ben Burtt</mainActor>
+		<IMDB>https://www.imdb.com/title/tt0910970/</IMDB>
+		<year>2008</year>
+		<genre>SciFi/Dystopia</genre>
+	</mov>
+
+		<mov id = \"mov10\">
+		<title>Monsters Inc.</title>
+		<img src = "https://www.imdb.com/title/tt0198781/mediaviewer/rm2785401856"></img>
+		<direct>Pete Docter</direct>
+		<mainActor>John Goodman</mainActor>
+		<IMDB>https://www.imdb.com/title/tt0198781/</IMDB>
+		<year>2001</year>
+		<genre>Adventure/Comedy</genre>
+	</mov>
+
+</catalog>";
+
+
+
